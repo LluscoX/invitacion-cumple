@@ -1,4 +1,5 @@
 import VideoInvitacion from './components/VideoInvitacion.jsx';
+import imagen1 from './assets/img1.png';
 import './App.css';
 
 function App() {

@@ -9,7 +9,7 @@ const VideoInvitacion = () => {
           className='video1'
           src={video1}
           autoPlay
-          // controls
+          controls
           loop
         ></video>
     </div>
