@@ -6,6 +6,7 @@ function App() {
  
   return (
     <div>
+      <img className='img1' src={imagen1} alt="" />
       <VideoInvitacion/>
       <h2 className='textdetraje' >De traje</h2>
 
