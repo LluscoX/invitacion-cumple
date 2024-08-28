@@ -1,0 +1,29 @@
+
+.contenedorGeneral_Fecha{
+    position: relative;
+    border-radius: 20px;
+    /* border: pink solid; */
+    background-color: rgb(9, 21, 61);
+    height: 250px;
+    width: 100%;
+}
+.contenedor_fecha{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.text_fechaNum{
+    line-height: 1;
+    margin: 0;
+    /* border: green solid ; */
+    font-size: 140px;
+    color: white;
+    /* text-shadow: 2px 3px 30px #00d4f0;  */
+}
+.text_fechaNombre{
+    /* border: black solid; */
+    color: gold;
+    margin-top: -15px;
+    font-size: 50px;
+}

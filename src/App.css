@@ -1,4 +1,13 @@
+/* body{
+    background-color:#060a12; 
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+} */
+
 .textdetraje{
+    font-size: 30px;
     color: aliceblue;
 }
 

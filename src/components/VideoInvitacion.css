@@ -1,5 +1,7 @@
 .video1{
     /* margin-top: 5%; */
     /* left: 50%; */
+    border: white 2px solid;
+    border-radius: 4cap;
     width: 490px;
 }

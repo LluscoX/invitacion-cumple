@@ -1,0 +1,32 @@
+.navGeneral{
+    position: fixed; /* Fija el nav en la parte superior */
+    top: 0; /* Asegura que el nav esté en la parte superior */
+    left: 0;
+    width: 100%; /* Ocupa todo el ancho de la pantalla */
+    background-color:rgb(77, 145, 239); /* Color de fondo del nav */
+    color: white; /* Color del texto en el nav */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para dar un efecto elevado */
+    z-index: 1000; /* Asegura que el nav esté sobre otros elementos */
+    text-align: right;
+
+}
+/* .navGeneral{
+    position: fixed;
+    margin: -8px;
+    background-color: rgb(77, 145, 239);
+    text-align: right;
+} */
+
+.texNav{
+    border: none;
+    background-color:rgb(77, 145, 239);
+    color: white;
+    margin: 14px;
+    font-size: 18px;
+    padding: 10px;
+    font-family:cursive , Arial, Helvetica, sans-serif;
+}
+.texNav:hover{
+    transform: scale(1.2);
+    transition: scale 0.2s;
+}

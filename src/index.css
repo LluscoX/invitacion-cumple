@@ -1,18 +1,7 @@
-:root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  /* line-height: 1.5; */
-  /* font-weight: 400; */
-  /* margin: auto; */
-  /* display: flex; */
-  background-color: #060a12;
-  
-  align-content: center;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-
-
+body {
+  background-color:#060a12; 
 }
+
 
 @media (prefers-color-scheme: light) {
   :root {
